@@ -1,0 +1,145 @@
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+
+# End of custom host records.
+#=====================================
+
+
+# Animes/Manga/Webcomic
+
+0.0.0.0 kissanime.ru
+0.0.0.0 kissanime.su
+0.0.0.0 www.kiss-anime.ws
+0.0.0.0 kiss-anime.ws
+0.0.0.0 www.watch-anime.org
+0.0.0.0 watch-anime.org
+0.0.0.0 www.masterani.me
+0.0.0.0 anymeapp.com
+0.0.0.0 9anime.to
+0.0.0.0 www1.kissanime.pro
+0.0.0.0 ww3.kissanime.wf
+0.0.0.0 viewasian.tv
+0.0.0.0 www.animefreak.tv
+0.0.0.0 animefreak.tv
+
+
+# Streams
+
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 kissasian.ch
+0.0.0.0 kissasian.sh
+0.0.0.0 kissasian.es
+0.0.0.0 www.kissasian.ch
+0.0.0.0 www.kissasian.sh
+0.0.0.0 www.kissasian.es
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 viu.com
+0.0.0.0 www.viu.com
+
+# Ads
+
+0.0.0.0 www.thinkingjuice.co.uk
+0.0.0.0 thinkingjuice.co.uk
+0.0.0.0 www.cartridgesave.co.uk
+
+# From Host File
+
+0.0.0.0 facebook.com
+0.0.0.0 fb.com
+0.0.0.0 ja-jp.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 mobile.facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 www.fb.com
+0.0.0.0 www.youtube.com
+0.0.0.0 youtube.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 proxysite.co
+0.0.0.0 www.proxysite.co
+0.0.0.0 proxysite.com
+0.0.0.0 www.proxysite.com
+0.0.0.0 free.everydaylookup.com
+0.0.0.0 socialnewpages.com
+0.0.0.0 download.bringmesports.com
+0.0.0.0 constintptr.com
+0.0.0.0 cobalten.com
+0.0.0.0 sport.blpmovies.com
+0.0.0.0 gz8zzc.nbtrk0.com
+0.0.0.0 fromdoctopdf.com
+0.0.0.0 free.anytimeastrology.com
+0.0.0.0 www.searchfortplus.com
+0.0.0.0 mystartab.com
+0.0.0.0 games.blpmovies.com
+0.0.0.0 blpmovies.com
+0.0.0.0 lp.blpmovies.com
+0.0.0.0 www.easydocmerge.com
+0.0.0.0 screenwatch.yournewtab.com
+0.0.0.0 entertainment.blpmovies.com
+0.0.0.0 s7.addthis.com
+0.0.0.0 internal.hola
+0.0.0.0 seen-on-screen.thewhizmarketing.com
+0.0.0.0 jarl.space
+0.0.0.0 niceapps.space
+0.0.0.0 sipidity.top
+0.0.0.0 ameer.bid
+0.0.0.0 olweb.tv
+0.0.0.0 hola.org
+0.0.0.0 rotumal.com
+0.0.0.0 free.videodownloadconverter.com
+0.0.0.0 www.searchfortuplus.com
+0.0.0.0 dc536.4sync.com
+0.0.0.0 channel1.vids.com
+0.0.0.0 www1.bmoviesfree.net
+0.0.0.0 gostream.site
+0.0.0.0 123movie.cc
+0.0.0.0 www3.fmovies.to
+0.0.0.0 www4.123movies.st
+0.0.0.0 123moviesfull.me
+0.0.0.0 www.123moviesbox.pro
+0.0.0.0 medard-lake.eu
+0.0.0.0 gomovies.cool
+0.0.0.0 en.softonic.com
+0.0.0.0 gomovieshd.cc
+0.0.0.0 gomovies.unblockall.org
+0.0.0.0 thevpn.guru
+0.0.0.0 www.eltima.com
+0.0.0.0 gomoviec.com
+0.0.0.0 solarmoviesc.co
+0.0.0.0 www.searchingmagnified.com
+0.0.0.0 www6.solarmoviesc.com
+0.0.0.0 solarmovie.sc
+0.0.0.0 www1.123netflix.pro
+0.0.0.0 123netflix.biz
+0.0.0.0 123-netflix.com
+0.0.0.0 www1.gomovies.fm
+0.0.0.0 cafehulu.com
+0.0.0.0 www1.hdgo.to
+0.0.0.0 putlockers.fm
+0.0.0.0 www.solarmovies.com
+0.0.0.0 www.mynewbritain.com
+0.0.0.0 www.freelotto.com
+
+
+0.0.0.0 www.purelovequotes.com
+0.0.0.0 www.wishespoems.com
+0.0.0.0 www.thelovebits.com
+0.0.0.0 everydaypower.com
+0.0.0.0 www.eventgreetings.com
+0.0.0.0 bestlifeonline.com
