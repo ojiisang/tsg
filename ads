@@ -63,3 +63,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.eventgreetings.com
 0.0.0.0 bestlifeonline.com
 0.0.0.0 www.searchingmagnified.com
+
+0.0.0.0 littlebigsnake.com
+0.0.0.0 www.littlebigsnake.com
